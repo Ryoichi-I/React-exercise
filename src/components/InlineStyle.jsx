@@ -1,3 +1,9 @@
 export const InlineStyle = () => {
-  return <div></div>;
+  return (
+    <div>
+      <p>- Inline Styles -</p>
+      <button>Fight!</button>
+    </div>
+  );
 };
+
